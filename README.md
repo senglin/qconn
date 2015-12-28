@@ -55,5 +55,5 @@ Setting up Packer in Atlas
 
         $ git commit -m "Trigger initial builds" --allow-empty
 
-1. Look in Atlas UI and see builds running
+1. Look in Atlas UI and see builds running.
 
